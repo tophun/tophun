@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Tophun&fontAlign=30&fontSize=45&desc=iOS%20Developer&descAlign=60&descAlignY=50&theme=dark)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Tophun&fontSize=45&theme=dark&height=300)
 
 <!--
 **tophun/tophun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
